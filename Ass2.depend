@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540492158 source:f:\year two\term one\oop\assigments\ass2\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1540491893 f:\year two\term one\oop\assigments\ass2\include\matrix.h
+
+1540492279 source:f:\year two\term one\oop\assigments\ass2\src\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
